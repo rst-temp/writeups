@@ -19,4 +19,4 @@ Exiftool – чтение EXIF-данных из картинок или https:/
 
 https://www.google.ru/maps – очень удобно ковырять всякие локации.
 
-https://dns.google
+https://dns.google – посмотреть различные txt записи и прочую информацию о домене.
